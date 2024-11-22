@@ -4,7 +4,7 @@ Many experiences are not unique but tend to be repeated: we might watch the same
 
 ---
 
-## Features
+## Files
 
 - **slurm_main.py**: Implements the main pipeline for running permutations on searchlights in the brain to determine their optimal event timescale for each clip viewing.
 - **slurm_utils.py**: Helper functions and utilities used by `slurm_main.py`.
